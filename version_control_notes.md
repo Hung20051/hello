@@ -30,3 +30,9 @@
 - Add files to the staging area.
 - Commit changes with a meaningful message.
 - Store project history in the repository.
+## 5. Real-world example of Git usage
+- A software team uses GitHub to collaborate.
+- Each developer works on a separate branch.
+- Changes are pushed to GitHub.
+- Pull Requests are created for code review.
+- The team merges code into the main branch.
